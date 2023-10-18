@@ -1,7 +1,4 @@
-import _ from 'lodash';
-import dayjs from 'day.js';
 
-"use strict";
 
 $(document).ready(function () {
     const products = [
